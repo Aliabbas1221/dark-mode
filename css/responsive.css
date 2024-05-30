@@ -1,0 +1,164 @@
+@media (max-width:997px){
+   .responsive{
+    display: flex;
+    flex-direction: column;
+
+   }
+   .banner-sec img{
+    width: 300px;
+   }
+   .img-wrapper img{
+    width: 50px;
+   }
+
+   
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:767px){
+   
+    
+    .logo{
+        width: 120px;
+    }
+    .r-btn{
+        margin-bottom: 10px;
+    }
+    .at-mobile h2{
+        margin-left: 30px;
+        margin-bottom: 10px;
+
+    }
+    .responsive-r{
+        margin-left: 30px;
+        margin-bottom: 10px;
+
+    }
+    .group-tag{
+        display: flex;
+         flex-direction: column;
+    }
+    .span-tag{
+        display: flex;
+        flex-direction: column;
+    }
+    .banner-sec h2{
+        font-size: 24px;
+    }
+    
+    .img-wrapper h3{
+        font-size: 16px;
+    }
+    .hero-respons .div-wrap{
+        width: 420px;
+    
+    }
+    
+    
+    
+
+
+
+   
+
+}
+@media  (min-width: 1200px) {
+    
+    .banner-sec h2{
+        font-size: 24px;
+    }
+}
+
+
+@media (max-width:480px) {
+  .growth-box{
+    display: flex;
+    flex-direction: column;
+   padding-left: 10px;
+  }
+.ability-section{
+    display: flex;
+    flex-direction: column;
+}
+.hero-respons{
+    display: flex;
+    flex-direction: column;
+}    
+
+.mock-div h2{
+    font-size: 18px;
+}
+.mock-div p{
+    font-size: 12px;
+}
+.developer-section span{
+    font-size:30px;
+}
+.developer-section img{
+    width: 30px;
+}
+
+.navbar-brand{
+    width: 80px;
+}
+.banner-sec{
+    display: flex;
+    flex-direction: column;
+}
+.span-tag{
+    display: flex;
+    flex-direction: column;
+}
+.fail-img{
+    width: 300px;
+    margin-left: 0;
+    padding-left: 0;
+}
+.r-btn{
+    margin-bottom: 20px;
+}
+.apart img{
+ width: 300px;
+}
+.hero-respons .div-wrap{
+    width: 350px;
+}
+.at-mobile{
+    width: 300px;
+}
+.growth-box h2{
+    font-size: 30px;
+}
+.quote{
+    font-size: 14px;
+    text-align: center;
+}
+.testimonial{
+
+    display: flex;
+    flex-direction: column;
+}
+.testi-p{
+    width: 300px;
+}
+
+
+}
